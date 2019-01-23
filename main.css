@@ -5,10 +5,20 @@ body {
 
 
 h1 {
-    text-align: center;
+    text-align: left;
     color: purple;
 }
 
 li {
     color: purple;
+}
+
+body {
+    margin: 15px;
+    background-image:url("assets/victor.jpg");
+    background-size: 100%;
+}
+
+p {
+    width: 50%;
 }
